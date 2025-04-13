@@ -6,7 +6,7 @@ local StarterGui = game:GetService("StarterGui")
 local camera = workspace.CurrentCamera
 
 local screenGui = Instance.new("ScreenGui")
-screenGui.Name = "NPC_Lock_GUI"
+screenGui.Name = "Npc Lock Gui | Dead Rails"
 screenGui.Parent = game:GetService("CoreGui")
 
 local button = Instance.new("TextButton")
